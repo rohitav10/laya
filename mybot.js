@@ -153,7 +153,7 @@ client.on('message', message => {
 
 
 
-client.login('ODAyMTAwMjA3Njg4MzUxNzU0.YAqUBw.AcMg6lfYTB37hILZAVu2_0S820w');
+client.login('NRbu-otP9Ascm3Uo4YdgtnnP_Mtfn0w2');
 
 
 
